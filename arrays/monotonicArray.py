@@ -28,3 +28,9 @@ class Solution(object):
                 if array[value] > array[value+1]:
                     return False
         return True            
+
+# time complexity  
+# 0(n) as we r simply traversing through the array and identifying which element is larger 
+
+# space 
+# 0(1) as we r not using any auxilary space 
