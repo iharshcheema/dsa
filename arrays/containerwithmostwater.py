@@ -54,6 +54,9 @@ class Solution(object):
                 right -= 1  # Move right pointer inward
 
         return max_area
+    
+# time complexity 0(n) since each pointer moves at most n times 
+# space 0(1)
 
 
 
