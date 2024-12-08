@@ -62,7 +62,8 @@ class Solution(object):
                         right-=1  
         return res       
 
-    T = O(n2)            
+    # T = O(n2)
+    
 
 
     
